@@ -1,6 +1,6 @@
 <?php
 
-	Class extension_jquery_date_picker extends Extension{
+	Class extension_jquery_datetime_picker extends Extension{
 
 		public function about(){
 			return array(

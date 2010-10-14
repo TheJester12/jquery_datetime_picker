@@ -11,7 +11,7 @@ This extension is really just a copy of Max Wheeler's jQuery Date Picker extensi
 
 ## Installation ##
 
-1. Upload the 'jquery_datetime_picker' folder in this archive to your Symphony 'extensions' folder.
+1. Upload the 'jquery_datetime_picker' folder in this archive to your Symphony 'extensions' folder. The folder must be named 'jquery_datetime_picker' exactly.
 
 2. Enable it by selecting the "jQuery Date Time Picker", choose Enable from the with-selected menu, then click Apply.
 
