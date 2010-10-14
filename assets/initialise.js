@@ -4,9 +4,11 @@ jQuery(document).ready(function()
   /**
   * Init date picker
   */
-  jQuery(".field-date input, .repeatingdate input").datepicker(
+  jQuery(".field-date input, .repeatingdate input").datetimepicker(
     {
-      dateFormat: 'd MM yy' // e.g., 15 June 2009
+    	ampm: true,
+   		timeFormat: 'h:mm tt', // e.g. 7:32 pm
+		dateFormat: 'mm/dd/yy' // e.g., 12/14/1982
     }
   );
 });
